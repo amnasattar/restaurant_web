@@ -1,0 +1,27 @@
+#logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+#nav{
+    background-color: darkgrey;
+}
+.head{
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+
+}
+#footer{
+    background-color: darkgrey;
+    color: white;
+}
+#para{
+    background-color:floralwhite
+}
+.head1{
+    margin-top: 10px;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+}
